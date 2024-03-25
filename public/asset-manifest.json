@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f192273.css",
+    "main.js": "/static/js/main.0d26d253.js",
+    "static/js/787.7c2f53ab.chunk.js": "/static/js/787.7c2f53ab.chunk.js",
+    "static/media/DancingScript-Bold.ttf": "/static/media/DancingScript-Bold.72fc35f38c2864ca2cd5.ttf",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.98ca1c65c571a7af0e1dadd1237b973b.svg",
+    "main.4f192273.css.map": "/static/css/main.4f192273.css.map",
+    "main.0d26d253.js.map": "/static/js/main.0d26d253.js.map",
+    "787.7c2f53ab.chunk.js.map": "/static/js/787.7c2f53ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f192273.css",
+    "static/js/main.0d26d253.js"
+  ]
+}

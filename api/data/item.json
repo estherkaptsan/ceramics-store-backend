@@ -1,0 +1,100 @@
+[
+    {
+        "inStock": "true",
+        "category": "Boutique",
+        "price": 80,
+        "numOfItemsInStock": 1,
+        "inSale": true,
+        "salePrice": 50,
+        "title": "Highline",
+        "description": "20/9.5 cm We all love those M bowls that meet us everyday and we can\t get enough of them. So meet the Highline M! she is your new crush and will join you at the table evet single day.",
+        "mediaUrl": {
+            "url": "http://unsplash.it/470/330",
+            "type": "image"
+        }
+    },
+    {
+        "inStock": "true",
+        "category": "Boutique",
+        "price": 43,
+        "numOfItemsInStock": 5,
+        "inSale": false,
+        "salePrice": 0,
+        "title": "Familya bowl",
+        "description": "24/7.5 cm Amazing size and shape salad bowl .Great for fruit and warm dishes as well. great for a loving gift",
+        "mediaUrl": {
+            "url": "http://unsplash.it/470/331",
+            "type": "image"
+        }
+    },
+    {
+        "inStock": "true",
+        "category": "Boutique",
+        "price": 210,
+        "numOfItemsInStock": 0,
+        "inSale": false,
+        "salePrice": 0,
+        "title": "Boss",
+        "description": "28/15 cm Confident,beautiful and independent. This is what you see when you meet this timeless beauty. It can be used for anything that comes to your mind and what ever you decide to put in it will look amazing.",
+        "mediaUrl": {
+            "url": "http://unsplash.it/470/332",
+            "type": "image"
+        }
+    },
+    {
+        "inStock": "true",
+        "category": "Boutique",
+        "price": 234,
+        "numOfItemsInStock": 0,
+        "inSale": false,
+        "salePrice": 0,
+        "title": "Familya bowl",
+        "description": "24/7.5 cm Amazing size and shape salad bowl .Great for fruit and warm dishes as well. great for a loving gift",
+        "mediaUrl": {
+            "url": "http://unsplash.it/470/333",
+            "type": "image"
+        }
+    },
+    {
+        "inStock": "false",
+        "category": "Traditional fires",
+        "price": 87,
+        "numOfItemsInStock": 4,
+        "inSale": true,
+        "salePrice": 70,
+        "title": "Flora round",
+        "description": "31/5 cm.   Perfect shape and size piece. Flat enough to serve anything from potatoes, vegetables, meat or fruit. Deep enough to bake a beautiful pie or serve a fresh salad.",
+        "mediaUrl": {
+            "url": "http://unsplash.it/470/334",
+            "type": "image"
+        }
+    },
+    {
+        "inStock": "true",
+        "category": "Housewares",
+        "price": 100,
+        "numOfItemsInStock": 2,
+        "inSale": false,
+        "salePrice": 0,
+        "title": "L striped cylinder",
+        "description": "33.5/7 cm.   For all the cylinder lovers, this one is our new favorite! A large stripy cylinder piece so wonderful for fruits or a large salad but also perfect for a cooked oven to table dish or baked sweets for a festive gathering.  ",
+        "mediaUrl": {
+            "url": "http://unsplash.it/470/335",
+            "type": "image"
+        }
+    },
+    {
+        "inStock": "false",
+        "category": "vases",
+        "price": 69,
+        "numOfItemsInStock": 0,
+        "inSale": true,
+        "salePrice": 50,
+        "title": "Six petite",
+        "description": "10/4 cm each A set of 6 petit bowls for dips, butter, jam, olives and anything else you might need a tiny bowl for.  ",
+        "mediaUrl": {
+            "url": "http://unsplash.it/470/347",
+            "type": "image"
+        }
+    }
+]
