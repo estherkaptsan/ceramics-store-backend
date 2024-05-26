@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f192273.css",
-    "main.js": "/static/js/main.0d26d253.js",
-    "static/js/787.7c2f53ab.chunk.js": "/static/js/787.7c2f53ab.chunk.js",
-    "static/media/DancingScript-Bold.ttf": "/static/media/DancingScript-Bold.72fc35f38c2864ca2cd5.ttf",
+    "main.css": "/static/css/main.48c0f1d3.css",
+    "main.js": "/static/js/main.2971dc26.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/about.jpg": "/static/media/about.1b4fed44930e1370ea70.jpg",
+    "static/media/Boutique.jpg": "/static/media/Boutique.7288d1eb4684ed945bbe.jpg",
+    "static/media/vases.jpg": "/static/media/vases.3b6d109e4cbbce5c557f.jpg",
+    "static/media/Housewares.jpg": "/static/media/Housewares.8221af3a465aa8e03548.jpg",
+    "static/media/TraditionalFires.jpg": "/static/media/TraditionalFires.c0f1d2f190c0fbf33150.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "static/media/logo.svg": "/static/media/logo.98ca1c65c571a7af0e1dadd1237b973b.svg",
-    "main.4f192273.css.map": "/static/css/main.4f192273.css.map",
-    "main.0d26d253.js.map": "/static/js/main.0d26d253.js.map",
-    "787.7c2f53ab.chunk.js.map": "/static/js/787.7c2f53ab.chunk.js.map"
+    "main.48c0f1d3.css.map": "/static/css/main.48c0f1d3.css.map",
+    "main.2971dc26.js.map": "/static/js/main.2971dc26.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f192273.css",
-    "static/js/main.0d26d253.js"
+    "static/css/main.48c0f1d3.css",
+    "static/js/main.2971dc26.js"
   ]
 }
